@@ -10,7 +10,8 @@ This platform is built using **HTML**, **CSS**, and **JavaScript**, ensuring com
 
 Take a look at the FEEM.EN homepage:
 
-![Homepage](https://raw.githubusercontent.com/AYushKUmar1161/feem-en/main/images/Screenshot%202025-05-08%20035519.png)
+![Homepage](https://raw.githubusercontent.com/AYushKUmar1161/feem-en/main/Screenshot%202025-05-08%20035519.png)
+
 
 
 ---
