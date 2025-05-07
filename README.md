@@ -78,6 +78,4 @@ Feel free to fork the project, submit issues, or contribute to improving FEEM.EN
 
 This project was created by **Ayush Kumar**. Thank you for checking out FEEM.EN! 🚀
 
----
 
-**Note**: Replace `your-username` with your actual GitHub username and update the image link to match your repository's structure. You can also enhance it further by adding more sections as your project grows!
