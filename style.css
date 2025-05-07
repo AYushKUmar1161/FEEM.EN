@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #121212; /* faded black */
+  color: #f5f5dc; /* vintage white */
+}
+
+.navbar {
+  background-color: #1c1c1c;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #f5f5dc;
+}
+
+.logo span {
+  color: #e50914;
+}
+
+.nav-links a {
+  color: #f5f5dc;
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), url('https://raw.githubusercontent.com/AYushKUmar1161/feem-en/main/Screenshot%202025-05-08%20035519.png') no-repeat center/cover;
+  color: #f5f5dc;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+button {
+  background-color: #e50914;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b00610;
+}
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #1c1c1c;
+  font-size: 0.9rem;
+  color: #a9a9a9;
+}
