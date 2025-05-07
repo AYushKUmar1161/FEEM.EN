@@ -1,4 +1,5 @@
-FEEM.EN is a sleek and modern streaming platform website designed with a custom color scheme of fade black and vintage white. It provides an engaging and interactive user experience with smooth animations, responsive design, and a user-friendly interface. The platform features easy navigation and a pleasant browsing experience, ideal for streaming content.
+FEEM.EN
+It is a sleek and modern streaming platform website designed with a custom color scheme of fade black and vintage white. It provides an engaging and interactive user experience with smooth animations, responsive design, and a user-friendly interface. The platform features easy navigation and a pleasant browsing experience, ideal for streaming content.
 
 Features
 Responsive Design: Automatically adapts to different screen sizes including mobile, tablet, and desktop for an optimal viewing experience.
@@ -18,7 +19,8 @@ CSS3: For styling the webpage, including custom animations, color schemes, and r
 
 JavaScript: For implementing interactive features such as the search bar and button actions.
 
-![Homepage](file:///C:/Users/ayush/OneDrive/Desktop/FEEM.EN/Screenshot%202025-05-08%20035519.png)
+![Screenshot](https://github.com/your-username/feem-en/blob/main/path/to/Screenshot%202025-05-08%20035519.png)
+
 
 Future Enhancements
 Integration with a backend to update content dynamically.
